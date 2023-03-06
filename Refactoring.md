@@ -10,8 +10,7 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 
 ## Your Explanation Here
 
-I have moved the constants out of the function to global scope to make them easily
-accessible with other files or functions.
+I have moved the constants out of the function to global scope to make them easily accessible with other functions.
 
 For the reusability purpose a new function called `getCandidateHash()` is created.
 
